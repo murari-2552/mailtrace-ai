@@ -1,0 +1,56 @@
+From: "State Bank Security Alert" <alerts@sbii-security-update.com>
+Reply-To: <collector-service@dark-relays.xyz>
+Return-Path: <bounce@sbii-security-update.com>
+To: <target.user@corporate.in>
+Subject: URGENT: Mandatory KYC Verification Required within 24 Hours to Prevent Account Freeze
+Date: Sat, 26 Sep 2026 08:30:14 +0530
+Message-ID: <20260926083014.9281.alerts@sbii-security-update.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_01D9A74E_382A1B0"
+Received: from [185.220.101.45] (helo=tor-exit-04.netherlands.relay)
+	by relay01.malicious-vpn.net (Postfix) with ESMTPS id 4Sd9L23kL
+	for <target.user@corporate.in>; Sat, 26 Sep 2026 08:30:02 +0530
+Received: from relay01.malicious-vpn.net (relay01.malicious-vpn.net [194.26.29.112])
+	by mx.sbii-security-update.com with ESMTP id 8F102AA9;
+	Sat, 26 Sep 2026 08:30:08 +0530
+Received: from mx.sbii-security-update.com (mx.sbii-security-update.com [194.26.29.112])
+	by mx.corporate.in (Corporate Gateway v4.2) with ESMTP id ABC12345
+	for <target.user@corporate.in>; Sat, 26 Sep 2026 08:30:15 +0530
+Authentication-Results: mx.corporate.in;
+	spf=fail (mx.corporate.in: domain of bounce@sbii-security-update.com does not designate 194.26.29.112 as permitted sender) smtp.mailfrom=bounce@sbii-security-update.com;
+	dkim=fail header.i=@sbii-security-update.com;
+	dmarc=fail (p=quarantine dis=quarantine) header.from=sbii-security-update.com
+X-Spam-Status: Yes, score=14.8
+X-Mailer: PHPMailer 6.2.0 (https://github.com/PHPMailer/PHPMailer)
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_01D9A74E_382A1B0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #222;">
+<div style="max-width: 600px; margin: 0 auto; border: 1px solid #e0e0e0; padding: 25px; border-radius: 8px;">
+  <h2 style="color: #b30000; margin-top: 0;">State Bank Security Alert: Account Verification Required</h2>
+  <p>Dear Valued Customer,</p>
+  <p>Our automated fraud prevention system has detected multiple unusual login attempts targeting your online net-banking profile from an unrecognized foreign IP address (185.220.101.45).</p>
+  <p>To ensure the security of your funds, your debit card and internet banking privileges have been <strong>temporarily restricted</strong>. In accordance with updated RBI regulatory guidelines, you must complete your <strong>Mandatory Re-KYC Verification within 24 hours</strong>, or your account will be permanently frozen.</p>
+  <div style="text-align: center; margin: 30px 0;">
+    <a href="http://sbii-security-update.com/kyc-verification/login.php?session=928194" style="background-color: #003366; color: #ffffff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block;">VERIFY YOUR IDENTITY NOW</a>
+  </div>
+  <p>Alternatively, complete the attached security declaration form and submit it immediately.</p>
+  <p style="font-size: 12px; color: #777;">Reference Code: SBI-SEC-2026-9281 | This is an automated security transmission.</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_01D9A74E_382A1B0
+Content-Type: application/octet-stream; name="Mandatory_KYC_Form.pdf.exe"
+Content-Disposition: attachment; filename="Mandatory_KYC_Form.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA2AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAAAAAAAAAAAAAAAAAAAAAAAAOAADCAELAQAAAAAAAAAAAAAA
+------=_NextPart_000_01D9A74E_382A1B0--

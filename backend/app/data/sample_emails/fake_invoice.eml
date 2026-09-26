@@ -1,0 +1,51 @@
+From: "Global Cloud Services Billing" <billing@g1obal-cloud-billing.com>
+Reply-To: <accounts-receivable@g1obal-cloud-billing.com>
+Return-Path: <bounce@g1obal-cloud-billing.com>
+To: <accounts.payable@corporate.in>
+Subject: OVERDUE INVOICE NOTICE: Cloud Infrastructure Contract INV-99482
+Date: Sat, 26 Sep 2026 10:04:19 +0530
+Message-ID: <20260926100419.88219.billing@g1obal-cloud-billing.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_Invoice_0918231"
+Received: from mail-relay-south.hosting-offshore.cc (103.145.13.204)
+	by mx.corporate.in (Corporate Gateway v4.2) with ESMTP id INV77218;
+	Sat, 26 Sep 2026 10:04:22 +0530
+Authentication-Results: mx.corporate.in;
+	spf=neutral (mx.corporate.in: 103.145.13.204 is neither permitted nor denied by domain of g1obal-cloud-billing.com);
+	dkim=fail (bad signature);
+	dmarc=fail (p=none) header.from=g1obal-cloud-billing.com
+
+This is a multi-part message in MIME format.
+
+------=_Part_Invoice_0918231
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+ATTENTION: ACCOUNTS PAYABLE & FINANCIAL CONTROLLER
+
+Our records indicate that Invoice #INV-99482 for Q3 Dedicated Server & Multi-Region Kubernetes Hosting remains UNPAID and is now 21 days past due.
+
+Total Amount Outstanding: USD 9,450.00 (or INR equivalent 7,85,000)
+Due Date: September 5, 2026
+
+NOTICE OF SERVICE DISRUPTION:
+Unless proof of payment is submitted by 18:00 IST today, automated provisioning will suspend all active cloud cluster instances and revoke database read replicas.
+
+PAYMENT UPDATE NOTICE:
+Please note our treasury department has completed the banking transition. Remit funds strictly to our updated beneficiary account detailed in the attached cryptographic invoice document.
+
+Please review the attached macro-enabled invoice summary to authorize immediate electronic clearance.
+
+Accounts Receivable Division
+Global Cloud Infrastructure Networks LLC
+Support: +1 (800) 555-0199
+
+------=_Part_Invoice_0918231
+Content-Type: application/vnd.ms-word.document.macroEnabled.12; name="Invoice_INV-99482_Sept2026.docm"
+Content-Disposition: attachment; filename="Invoice_INV-99482_Sept2026.docm"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAAAZG9jUHJvcHMvYXBwLnhtbM2PwWrDMBBE74H+
+g9h7nThpUohV6iU0lJBS6KUlx2ur2pKVXfP3fS2h0EuPvfUw82Y2y0229nRO7uDIc10kSZYl
+CGS1V1rVJfmuel6ck5xXWjV7G7REuYF1179vFh2Wp6eQGjT6WlGZp8vjTjP05Uq14c6s0jI=
+------=_Part_Invoice_0918231--

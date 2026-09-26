@@ -1,0 +1,40 @@
+From: "Microsoft 365 Security Center" <account-protection@micros0ft-security-portal.com>
+Reply-To: <credential-collector@micros0ft-security-portal.com>
+Return-Path: <bounce@micros0ft-security-portal.com>
+To: <employee@corporate.in>
+Subject: Action Required: Your Microsoft 365 Domain Password Expires in 4 Hours
+Date: Sat, 26 Sep 2026 11:20:05 +0530
+Message-ID: <20260926112005.11029.sec@micros0ft-security-portal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Received: from mail-gateway.cloud-phish.ru (89.208.107.15)
+	by mx.corporate.in (Corporate Gateway v4.2) with ESMTP id MS365SEC01;
+	Sat, 26 Sep 2026 11:20:09 +0530
+Authentication-Results: mx.corporate.in;
+	spf=fail (mx.corporate.in: domain of bounce@micros0ft-security-portal.com does not designate 89.208.107.15 as permitted sender);
+	dkim=fail header.i=@micros0ft-security-portal.com;
+	dmarc=fail header.from=micros0ft-security-portal.com
+
+<html>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f2f2f2; margin: 0; padding: 20px;">
+<div style="max-width: 550px; margin: 0 auto; background-color: #ffffff; border: 1px solid #ddd; padding: 30px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <h3 style="color: #0078D4; margin: 0;">Microsoft 365 Security Compliance</h3>
+  </div>
+  <h2 style="color: #333333; font-size: 20px; font-weight: 600;">Password Expiration Notification</h2>
+  <p style="color: #555; font-size: 14px; line-height: 1.5;">
+    The corporate single sign-on (SSO) password for <strong>employee@corporate.in</strong> is scheduled to expire today at 15:30 IST in compliance with your organization's periodic credential rotation policy.
+  </p>
+  <div style="background-color: #fff3cd; border-left: 4px solid #ffc107; padding: 12px; margin: 20px 0; font-size: 13px; color: #856404;">
+    <strong>Notice:</strong> To retain your current password without interruption to your Outlook, Teams, and OneDrive sync services, confirm your active credentials below.
+  </div>
+  <div style="text-align: center; margin: 30px 0;">
+    <a href="https://bit.ly/m365-keep-password-token" style="background-color: #0078D4; color: #ffffff; padding: 12px 28px; text-decoration: none; font-size: 14px; font-weight: 600; display: inline-block;">KEEP CURRENT PASSWORD</a>
+  </div>
+  <p style="font-size: 12px; color: #888; border-top: 1px solid #eee; padding-top: 15px;">
+    Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 | Security Incident ID: #MS-SEC-9921
+  </p>
+</div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+dist/
+build/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Database & Generated Reports
+*.db
+*.sqlite3
+backend/mailtrace.db
+backend/reports/*.pdf
+!backend/reports/.gitkeep
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
